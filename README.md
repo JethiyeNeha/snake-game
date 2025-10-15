@@ -15,4 +15,4 @@ Game Over Sound: Plays when the snake collides with a wall or itself.<br>
 Audio files are lightweight and enhance the gaming experience.<br>
 
 <b>🚀 Want to Play? Click on the below link.<br>
-https://snake-game-bie9ehi0q-jethiyenehas-projects.vercel.app/
+https://snake-game-orpin-five.vercel.app/
